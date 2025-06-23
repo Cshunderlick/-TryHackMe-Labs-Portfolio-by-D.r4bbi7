@@ -36,11 +36,7 @@ Aqui você encontra uma lista das principais salas que completei, com os método
 ## 📁 Estrutura do Repositório
 
 Cada sala contém:
-
-- Notas detalhadas (`notes.md`)
-- Scripts e exploits usados (`exploit.sh`, `exploit.py`)
-- Técnicas de pós-exploração e escalada (`post-exploit.md`)
-- Artefatos coletados, como hashes e flags (`loot/`)
+- Notas detalhadas (`report.md`)
 
 ---
 
