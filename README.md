@@ -42,7 +42,7 @@ Cada sala contém:
 
 ## 📢 Contato
 
-- Linkedin: [DouglasCshunderlick](https://www.linkedin.com/in/douglas-cshunderlick/)
+- Linkedin: [Douglas Cshunderlick](https://www.linkedin.com/in/douglas-cshunderlick/)
 - TryHackMe: [D.r4bbi7](https://tryhackme.com/p/D.r4bbi7)
 - GitHub: [DouglasCshunderlick](https://github.com/Cshunderlick)
 
