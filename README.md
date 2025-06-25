@@ -44,7 +44,7 @@ Cada sala contém:
 
 - Linkedin: [Douglas Cshunderlick](https://www.linkedin.com/in/douglas-cshunderlick/)
 - TryHackMe: [D.r4bbi7](https://tryhackme.com/p/D.r4bbi7)
-- GitHub: [DouglasCshunderlick](https://github.com/Cshunderlick)
+- GitHub: [Douglas Cshunderlick](https://github.com/Cshunderlick)
 
 ---
 
